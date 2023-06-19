@@ -1,4 +1,4 @@
-# LSTM-Stock-Price-Predictor
+# Stock-Price-Predictor
 This repository contains a Python script that uses a Long Short Term Memory (LSTM) model to predict the closing price of Tesla (symbol: 'tsla') for the next trading day.
 
 Features
